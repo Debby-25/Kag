@@ -19,9 +19,7 @@ Key Results
 - Achieved [insert accuracy or F1-score] on test data  
 - Improved model performance through ensemble methods  
 - Identified key features influencing transport prediction (e.g., VIP status, cabin location)
-
-
-
+  
   
  Visual Highlights
 - summary plot showing top predictors  
