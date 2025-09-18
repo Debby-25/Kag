@@ -1,5 +1,15 @@
 Spaceship Titanic Prediction Capstone Project
 
+##Table of Content
+- [Overview](#overview)
+- [Objectives](#objectives)
+- [Tools $ Technologies](#tools $ technologies)
+- [Key Results](#key results)
+- [Visual Highlights](#visual highlights)
+- [Takwaways](#takeaways)
+- [Links](#links)
+- [Author](#author)
+
 Overview
 This project explores the **Spaceship Titanic** dataset from Kaggle, a fictional sci-fi scenario where passengers aboard a luxury interstellar cruise may have been "transported" to another dimension. The goal was to build a binary classification model to predict transport status based on passenger demographics, cabin details, and spending behavior.
 
@@ -15,12 +25,12 @@ Objectives
 - **Libraries**: Pandas, NumPy, Scikit-learn, XGBoost, SHAP, Matplotlib, Seaborn  
 - **Techniques**: Feature engineering, hyperparameter tuning, model interpretability
 
-Key Results
-- Achieved [insert accuracy or F1-score] on test data  
+Key Results 
 - Improved model performance through ensemble methods  
 - Identified key features influencing transport prediction (e.g., VIP status, cabin location)
   
-  
+  <img width="1908" height="1660" alt="screencapture-5tukxnag8i8gcflneazhmc-streamlit-app-2025-09-18-19_46_20" src="https://github.com/user-attachments/assets/03b0a1a4-1311-4633-bab2-20367bd55bf5" />
+
  Visual Highlights
 - summary plot showing top predictors  
 - Confusion matrix and ROC curve for model performance  
