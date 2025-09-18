@@ -3,9 +3,9 @@ Spaceship Titanic Prediction Capstone Project
 ##Table of Content
 - [Overview](#overview)
 - [Objectives](#objectives)
-- [Tools $ Technologies](#tools $ technologies)
-- [Key Results](#key results)
-- [Visual Highlights](#visual highlights)
+- [Tools&Technologies](#tools&technologies)
+- [KeyResults](#keyresults)
+- [VisualHighlights](#visualhighlights)
 - [Takwaways](#takeaways)
 - [Links](#links)
 - [Author](#author)
@@ -20,12 +20,12 @@ Objectives
 - Interpret model predictions using SHAP values
 - Visualize insights and performance metrics
 
- Tools & Technologies
+ Tools&Technologies
 - **Languages**: Python  
 - **Libraries**: Pandas, NumPy, Scikit-learn, XGBoost, SHAP, Matplotlib, Seaborn  
 - **Techniques**: Feature engineering, hyperparameter tuning, model interpretability
 
-Key Results 
+KeyResults 
 - Improved model performance through ensemble methods  
 - Identified key features influencing transport prediction (e.g., VIP status, cabin location)
   
